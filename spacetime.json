@@ -1,0 +1,8 @@
+{
+  "dev": {
+    "run": "dotnet run"
+  },
+  "database": "spacetime-learning-db01",
+  "server": "maincloud",
+  "module-path": "./spacetimedb"
+}
