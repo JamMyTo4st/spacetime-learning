@@ -1,10 +1,15 @@
-# Quickstart client
-See [SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB)/modules/quickstart-chat
+# Learning C#/.Net with SpacetimeDB
 
-## Regenerating bindings
+## SpacetimeDB
+See [SpacetimeDB GitHub](https://github.com/clockworklabs/SpacetimeDB)
 
-To regenerate bindings: clone SpacetimeDB next to this repo, then in `sdks/csharp` of this repo:
+### Implemtations / Learned topics
+- Creating a Table
+- Modifying the User Table to give X,Y Position coordinates
+- Deleting a Database
+- Modifying a Database
+- Creating a Reducer to create a Move function for the user Table
 
-```bash
-tools~/gen-quickstart.sh
-```
+### Great Resources
+- [SpacetimeDB Cheatsheet](https://spacetimedb.com/docs/databases/cheat-sheet/)
+- [SpacetimeDB Website](https://spacetimedb.com/)
